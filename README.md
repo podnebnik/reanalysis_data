@@ -1,6 +1,6 @@
 # Reanalysis data
 
-## Run example
+## Example
 1. [Install CDS API](https://cds.climate.copernicus.eu/api-how-to)
 2. [Install NetCDF4 lib](https://anaconda.org/conda-forge/netcdf4)
 3. Go to Example
